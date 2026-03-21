@@ -1,4 +1,4 @@
-# 📚 City Public Library API
+# 📚 Public Library
 
 This is a FastAPI backend project built as part of an internship program and demonstrates real-world API development using FastAPI.
 
